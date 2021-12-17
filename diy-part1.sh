@@ -20,4 +20,4 @@
 #echo 'src-git small https://github.com/kenzok8/small.git' >>feeds.conf.default
 echo 'src-git smallpackage https://github.com/kenzok8/small-package.git' >>feeds.conf.default
 git clone https://github.com/KFERMercer/luci-app-tcpdump.git ./package/luci-app-tcpdump
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-eqos.git ./package/luci-app-eqos
+git clone https://github.com/swxk521/luci-app-eqos.git ./package/luci-app-eqos
