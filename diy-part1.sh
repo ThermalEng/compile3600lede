@@ -22,3 +22,5 @@ sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 git clone https://github.com/KFERMercer/luci-app-tcpdump.git ./package/luci-app-tcpdump
 git clone https://github.com/swxk521/luci-app-eqos.git ./package/luci-app-eqos
+git clone https://github.com/nickilchen/luci-app-socat.git ./package/luci-app-socat
+git clone https://github.com/iwrt/luci-app-ikoolproxy.git ./package/luci-app-ikoolproxy
