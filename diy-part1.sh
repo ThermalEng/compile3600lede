@@ -25,3 +25,4 @@ git clone https://github.com/swxk521/luci-app-eqos.git ./package/luci-app-eqos
 git clone https://github.com/nickilchen/luci-app-socat.git ./package/luci-app-socat
 git clone https://github.com/iwrt/luci-app-ikoolproxy.git ./package/luci-app-ikoolproxy
 git clone https://github.com/izilzty/luci-app-chinadns-ng.git ./package/luci-app-chinadns
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
